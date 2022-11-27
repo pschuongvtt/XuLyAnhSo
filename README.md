@@ -5,7 +5,7 @@ File code trên github: https://github.com/pschuongvtt/XuLyAnhSo
 
 Nội dung thư mục bao gồm: 
 
-+ Mode : File model chứa thông tin các model opencv_dnn, opencv_dnn_caffe, facebook, yolo3, ...
++ Model : File model chứa thông tin các model opencv_dnn, opencv_dnn_caffe, facebook, yolo3, ...
 
 + HinhAnh: Chứa thông tin hình ảnh các file xử lý ảnh chương 3, chương 4, chương 9, nhận dạng gương mặt bằng facebook, yolo3, hình ảnh starry night
 
